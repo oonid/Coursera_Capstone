@@ -4,6 +4,12 @@
 
 # Analyzing Medical Facilities in New York City Neighbourhoods
 
+## [Link to the Notebook](https://github.com/oonid/Coursera_Capstone/blob/main/The_Battle_of_Neighborhoods/The_Battle_of_Neighbourhoods.ipynb)
+
+## [Link to the PDF Report](https://github.com/oonid/Coursera_Capstone/blob/main/The_Battle_of_Neighborhoods/Report_The_Battle_of_Neighbourhoods.pdf)
+
+## [Link to the blog post](https://oo.or.id/content/the-battle-of-neighbourhoods/)
+
 # Introduction/Business Problem
 
 Since 2020, pandemics change many things in our lives, everything would be different especially if it is related to health and medicine.
